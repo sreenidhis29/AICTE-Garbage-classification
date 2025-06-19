@@ -1,1 +1,1 @@
-# AICTE-Garbage-classification
+# Garbage-classification-Week 1
